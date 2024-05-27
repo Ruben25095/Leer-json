@@ -1,1 +1,1 @@
-# Leer-json
+require "Leer-json"
